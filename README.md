@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://sribalaji.imfast.io/" />][website]
-[<img align="left" alt="Sri Balaji" width="22px" src="#" />][youtube]
-[<img align="left" alt="iSriBalaji | Twitter" width="22px" src="https://twitter.com/isribalaji" />][twitter]
-[<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://www.linkedin.com/in/sri-balaji/" />][linkedin]
-[<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://www.instagram.com/isribalaji/" />][instagram]
+[<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://image.flaticon.com/icons/svg/2922/2922506.svg" />][website]
+<!--[<img align="left" alt="Sri Balaji" width="22px" src="#" />][youtube] -->
+[<img align="left" alt="iSriBalaji | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />][linkedin]
+[<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 
 <br />
 

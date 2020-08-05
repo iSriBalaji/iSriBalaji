@@ -12,23 +12,18 @@
 
 [<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://sribalaji.imfast.io/" />][website]
 [<img align="left" alt="Sri Balaji" width="22px" src="#" />][youtube]
-[<img align="left" alt="Sri Balaji | Twitter" width="22px" src="https://twitter.com/isribalaji" />][twitter]
+[<img align="left" alt="iSriBalaji | Twitter" width="22px" src="https://twitter.com/isribalaji" />][twitter]
 [<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://www.linkedin.com/in/sri-balaji/" />][linkedin]
 [<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://www.instagram.com/isribalaji/" />][instagram]
 
 <br />
 
-<!--
-**iSriBalaji/iSriBalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://sribalaji.imfast.io/
+[twitter]: https://twitter.com/isribalaji
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://www.instagram.com/isribalaji/
+[linkedin]: https://www.linkedin.com/in/sri-balaji/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0

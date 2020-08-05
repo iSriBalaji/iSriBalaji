@@ -1,6 +1,6 @@
 ## Hey I'm Sri Balaji.👋
 
-<img align="left" alt="Sri Balaji Banner" src="https://i.imgur.com/BGFnjDf.png" />
+<img align="left" style = "border-radius: 8px;" alt="Sri Balaji Banner" src="https://i.imgur.com/BGFnjDf.png" />
 <br />
 
 ### Student | Engineer | Finalist of Smart India Hackathon 2020 | ML Enthusiast

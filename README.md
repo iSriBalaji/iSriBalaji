@@ -1,8 +1,8 @@
 ## Hey I'm Sri Balaji.👋
 
 <img align="left" style = "border-radius: 8px;" alt="Sri Balaji Banner" src="https://i.imgur.com/BGFnjDf.png" />
-# Down...
 <br />
+
 ### Student | Engineer | Finalist of Smart India Hackathon 2020 | ML Enthusiast
 - I’m currently working on Medical Diagnosing Application!
 - Doing Andrew NG's Machine Learning Course
@@ -27,3 +27,8 @@
 [instagram]: https://www.instagram.com/isribalaji/
 [linkedin]: https://www.linkedin.com/in/sri-balaji/
 
+### Languages and Tools:
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />

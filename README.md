@@ -39,5 +39,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />
 <br />
-## Stats:
 <img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />

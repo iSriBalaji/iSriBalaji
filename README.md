@@ -12,12 +12,14 @@
 
 [<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://image.flaticon.com/icons/svg/2922/2922506.svg" />][website]
 <!--[<img align="left" alt="Sri Balaji" width="22px" src="#" />][youtube] -->
-[<img align="left" alt="iSriBalaji | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />][linkedin]
+[<img align="left" alt="Sri Balaji | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="Sri Balaji | WhatsApp" width="22px" src="https://image.flaticon.com/icons/svg/733/733585.svg" />][whatsapp]
 [<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 
 <br />
 
+[whatsapp]:https://wa.me/+919710912282
 [website]: https://sribalaji.imfast.io/
 [twitter]: https://twitter.com/isribalaji
 [youtube]: https://youtube.com/codeSTACKr

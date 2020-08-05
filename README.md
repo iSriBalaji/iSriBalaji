@@ -39,6 +39,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-
-## Sri Balaji Stats
+<hr />
 <img align="left" alt="Sri Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=true" />

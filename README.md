@@ -1,8 +1,8 @@
 ## Hey I'm Sri Balaji.👋
 
 <img align="left" style = "border-radius: 8px;" alt="Sri Balaji Banner" src="https://i.imgur.com/BGFnjDf.png" />
+# ...
 <br />
-
 ### Student | Engineer | Finalist of Smart India Hackathon 2020 | ML Enthusiast
 - I’m currently working on Medical Diagnosing Application!
 - Doing Andrew NG's Machine Learning Course

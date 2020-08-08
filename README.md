@@ -27,6 +27,18 @@
 [instagram]: https://www.instagram.com/isribalaji/
 [linkedin]: https://www.linkedin.com/in/sri-balaji/
 
+### Python Packages I've worked on
+- Numpy
+- Pandas
+- SciKit Learn
+- OpenCV
+- MySQL Connector
+- Speech Recognition
+- Requests
+
+<br />
+
+
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -38,6 +50,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />
+<br />
 <br />
 <br />
 <img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />

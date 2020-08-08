@@ -2,6 +2,7 @@
 
 <img align="left" style = "border-radius: 8px;" alt="Sri Balaji Banner" src="https://i.imgur.com/BGFnjDf.png" />
 <br />
+<br />
 
 ### Student | Engineer | Finalist of Smart India Hackathon 2020 | ML Enthusiast
 - I’m currently working on Medical Diagnosing Application!
@@ -18,8 +19,6 @@
 [<img align="left" alt="Sri Balaji | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="Sri Balaji | WhatsApp" width="22px" src="https://image.flaticon.com/icons/svg/733/733585.svg" />][whatsapp]
 [<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-
-<br />
 
 [whatsapp]:https://wa.me/+919710912282
 [website]: https://sribalaji.imfast.io/

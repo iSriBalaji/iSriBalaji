@@ -44,9 +44,9 @@
 ### Flutter Apps
 - Developed many simple mobile apps using Flutter
 
-### Programming Languages:
+### <ins> Programming Languages: </ins>
 #### C, Python, Flutter
-<img align="left" height="40" width="40" alt="C" src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097008.png?token=exp=1642755343~hmac=1f015071a7b7100c8caf37e26274269b" />
+<img align="left" height="40" width="40" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" height="40" width="40" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" height="40" width="40" alt="Flutter" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
 <br />
@@ -91,15 +91,16 @@
 ### Cloud Technologies:
 #### Google Cloud, AWS
 <img align="left" height="40" width="40" alt="Google CLoud"  src="https://cdn-icons-png.flaticon.com/512/873/873117.png" />
-<img align="left" height="40" width="40" alt="AWS"  src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo-500x500.png" />
+<img align="left" height="40" width="40" alt="AWS"  src="https://www.illumina.com/content/dam/illumina-marketing/images/company/doing-business/aws-logo-web-graphic.jpg" />
 <br />
 <br />
 
 ### OS
-## Linux(Debian Based Distros), Windows
+#### Linux(Debian Based Distros), Windows
 <img align="left" height="40" width="40" alt="Linux" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />
 <img align="left" height="40" width="40" alt="Windows" src="https://cdn-icons-png.flaticon.com/512/732/732225.png" />
-
+<br />
+<br />
 
 <br />
 <hr />

@@ -50,7 +50,7 @@
 <img align="left" height="40" width="40" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" height="40" width="40" alt="Flutter" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
 
-### Scientific Programming Language:
+<h2> Scientific Programming Language: </h2>
 #### R, Octave
 <img align="left" height="40" width="40" alt="R" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" />
 <img align="left" height="40" width="40" alt="Octave" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" />

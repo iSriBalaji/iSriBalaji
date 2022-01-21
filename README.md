@@ -46,16 +46,18 @@
 
 ### Programming Languages:
 #### C, Python, Flutter
-<img align="left" height="40" width="40" alt="C" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" />
+<img align="left" height="40" width="40" alt="C" src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097008.png?token=exp=1642755343~hmac=1f015071a7b7100c8caf37e26274269b" />
 <img align="left" height="40" width="40" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" height="40" width="40" alt="Flutter" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
-
+<br />
 <br />
 
 ### Scientific Programming Language:
 #### R, Octave
 <img align="left" height="40" width="40" alt="R" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" />
 <img align="left" height="40" width="40" alt="Octave" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" />
+<br />
+<br />
 
 ### Web Technologies:
 #### HTML, CSS, Bootstrap, Javascript, Django
@@ -64,18 +66,41 @@
 <img align="left" height="40" width="40" alt="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />
 <img align="left" height="40" width="40" alt="Javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 <img align="left" height="40" width="40" alt="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
+<br />
+<br />
 
 ### Database:
-#### MySQL, Firebase, Oracle SQL
-<img align="left" height="40" width="40" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
-<img align="left" height="40" width="40" alt="Tableau" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />
-<br />
+#### MySQL, Firebase, Oracle SQL, SQLlite
+<img align="left" height="40" width="40" alt="MySQL"  src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" height="40" width="40" alt="Firebase"  src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" />
-<img align="left" height="40" width="40" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="40" width="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" height="40" width="40" alt="Oracle SQL"  src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png" />
+<img align="left" height="40" width="40" alt="SQLlite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" />
+<br />
+<br />
+
+### Tools & Technologies:
+### Git, GitHub, Tableau, Machine Learning
 <img align="left" height="40" width="40" alt="Git" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
 <img align="left" height="40" width="40" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" height="40" width="40" alt="Tableau" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />
+<img align="left" height="40" width="40" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
+<img align="left" height="40" width="40" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br />
+<br />
+
+### Cloud Technologies:
+#### Google Cloud, AWS
+<img align="left" height="40" width="40" alt="Google CLoud"  src="https://cdn-icons-png.flaticon.com/512/873/873117.png" />
+<img align="left" height="40" width="40" alt="AWS"  src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo-500x500.png" />
+<br />
+<br />
+
+### OS
+## Linux(Debian Based Distros), Windows
 <img align="left" height="40" width="40" alt="Linux" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />
+<img align="left" height="40" width="40" alt="Windows" src="https://cdn-icons-png.flaticon.com/512/732/732225.png" />
+
+
 <br />
 <hr />
 <img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />

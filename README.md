@@ -42,7 +42,7 @@
 - Get the code in CallodineBlog repo
 
 ### Languages and Tools:
-<img align="left" height="30" width="30" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
+<img align="left" height="40" width="40" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" height="30" width="30" alt="R" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" />
 <img align="left" height="30" width="30" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="30" width="30" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />

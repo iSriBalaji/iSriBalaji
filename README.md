@@ -1,8 +1,6 @@
 <h1>Hola, I'm <a href="https://isribalaji.in/">Sri Balaji</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
-
-<br />
 <br />
 
 ### Master's Student • University at Buffalo • Data Science
@@ -16,14 +14,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://image.flaticon.com/icons/svg/2922/2922506.svg" />][website]
-[<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />][linkedin]
-[<img align="left" alt="Sri Balaji | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="Sri Balaji | WhatsApp" width="22px" src="https://image.flaticon.com/icons/svg/733/733585.svg" />][whatsapp]
-[<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
+[<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website]
+[<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Sri Balaji | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="Sri Balaji | WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
+[<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
-[whatsapp]:https://wa.me/+919710912282
-[website]: https://sribalaji.imfast.io/
+[whatsapp]:https://wa.me/+919789968131
+[website]: https://isribalaji.in/
 [twitter]: https://twitter.com/isribalaji
 [instagram]: https://www.instagram.com/isribalaji/
 [linkedin]: https://www.linkedin.com/in/sri-balaji/

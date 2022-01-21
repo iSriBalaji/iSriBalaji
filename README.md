@@ -2,16 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
 
-<img align="left" style = "border-radius: 8px;" alt="Sri Balaji Banner" src="https://i.imgur.com/BGFnjDf.png" />
 <br />
 <br />
 
-### Student | Engineer | Finalist of Smart India Hackathon 2020 | ML Enthusiast
-- I’m currently working on Medical Diagnosing Application!
-- Doing Andrew NG's Machine Learning Course
-- Got a job as System Engineer at TCS
-- 2020 Goals: Want to learn Applied Machine Learning, Want to learn JS
-- Fun fact: I love to read blogs, play COD mobile.
+### Master's Student • University at Buffalo • Data Science
+- I’m currently pursuing Master's in Data Science at UB
+- Building a microblogging platform with Analytics
+- Interested in Statistical Data Mining and Data Analysis
+- Google Cloud Certified Data Engineer
+- Worked as Data Engineer at TCS for a year.
+- Fun fact: I love to read blogs, develop mobile apps, web and desktop applications.
 
 
 ### Connect with me:

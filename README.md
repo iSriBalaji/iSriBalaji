@@ -45,11 +45,26 @@
 - Developed many simple mobile apps using Flutter
 
 ### Programming Languages:
+#### C, Python, Flutter
+<img align="left" height="40" width="40" alt="C" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" />
 <img align="left" height="40" width="40" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
+<img align="left" height="40" width="40" alt="Flutter" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
+
+### Scientific Programming Language:
+#### R, Octave
 <img align="left" height="40" width="40" alt="R" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" />
+<img align="left" height="40" width="40" alt="Octave" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" />
+
+### Web Technologies:
+#### HTML, CSS, Bootstrap, Javascript, Django
 <img align="left" height="40" width="40" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="40" width="40" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" height="40" width="40" alt="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />
+<img align="left" height="40" width="40" alt="Javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+<img align="left" height="40" width="40" alt="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
+
+### Database:
+#### MySQL, Firebase, Oracle SQL
 <img align="left" height="40" width="40" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
 <img align="left" height="40" width="40" alt="Tableau" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />
 <br />

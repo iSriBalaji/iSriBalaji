@@ -44,8 +44,8 @@
 ### Flutter Apps
 - Developed many simple mobile apps using Flutter
 
-#### <ins> Programming Languages: </ins>
-##### C, Python, R, Octave, Flutter
+### <ins> Programming Languages: </ins>
+#### C, Python, R, Octave, Flutter
 <img align="left" height="30" width="30" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" height="30" width="30" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" height="30" width="30" alt="R" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" />
@@ -61,8 +61,8 @@
 <br />
 <br /> -->
 
-#### <ins> Web Technologies: </ins>
-##### HTML, CSS, Bootstrap, Javascript, Django
+### <ins> Web Technologies: </ins>
+#### HTML, CSS, Bootstrap, Javascript, Django
 <img align="left" height="30" width="30" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="30" width="30" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" height="30" width="30" alt="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />
@@ -71,8 +71,8 @@
 <br />
 <br />
 
-#### <ins> Database: </ins>
-##### MySQL, Firebase, Oracle SQL, SQLlite
+### <ins> Database: </ins>
+#### MySQL, Firebase, Oracle SQL, SQLlite
 <img align="left" height="30" width="30" alt="MySQL"  src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" height="30" width="30" alt="Firebase"  src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" />
 <img align="left" height="30" width="30" alt="Oracle SQL"  src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png" />
@@ -80,8 +80,8 @@
 <br />
 <br />
 
-#### <ins> Tools & Technologies: </ins>
-##### Git, GitHub, Tableau, Machine Learning, Linux(Debian Based Distros)
+### <ins> Tools & Technologies: </ins>
+#### Git, GitHub, Tableau, Machine Learning, Linux(Debian Based Distros)
 <img align="left" height="30" width="30" alt="Git" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
 <img align="left" height="30" width="30" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" height="30" width="30" alt="Tableau" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />

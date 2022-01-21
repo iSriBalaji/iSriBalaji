@@ -80,8 +80,8 @@
 <br />
 <br />
 
-### <ins> Tools & Technologies: </ins>
-#### Git, GitHub, Tableau, Machine Learning, Linux(Debian Based Distros)
+#### <ins> Tools & Technologies: </ins>
+##### Git, GitHub, Tableau, Machine Learning, Linux(Debian Based Distros)
 <img align="left" height="30" width="30" alt="Git" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
 <img align="left" height="30" width="30" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" height="30" width="30" alt="Tableau" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />

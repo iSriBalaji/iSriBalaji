@@ -1,7 +1,6 @@
 <h1>Hola, I'm <a href="https://isribalaji.in/">Sri Balaji</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
-<br />
 
 ### Master's Student • University at Buffalo • Data Science
 - I’m currently pursuing Master's in Data Science at UB
@@ -26,6 +25,8 @@
 [instagram]: https://www.instagram.com/isribalaji/
 [linkedin]: https://www.linkedin.com/in/sri-balaji/
 <br />
+
+### Good in Python and have done numerous projects using it
 ### Python Packages I've worked on
 - Numpy
 - Pandas
@@ -36,19 +37,22 @@
 - Requests
 
 ### Frameworks
-## Django: 
+#### Django: 
 - Buiding a microblogging platform(Rapt) with analytics and natural language processing
 - Get the code in CallodineBlog repo
 
 ### Languages and Tools:
 <img align="left" height="30" width="30" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
+<img align="left" height="30" width="30" alt="R" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" />
 <img align="left" height="30" width="30" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="30" width="30" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" height="30" width="30" alt="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />
 <img align="left" height="30" width="30" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
 <img align="left" height="30" width="30" alt="Tableau" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" />
 <img align="left" height="30" width="30" alt="Firebase"  src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" />
 <img align="left" height="30" width="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" height="30" width="30" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" height="30" width="30" alt="Git" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
 <img align="left" height="30" width="30" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" height="30" width="30" alt="Linux" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />
 <br />

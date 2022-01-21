@@ -88,6 +88,8 @@
 <img align="left" height="30" width="30" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
 <img align="left" height="30" width="30" alt="Linux" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />
 <img align="left" height="30" width="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" height="30" width="30" alt="Google CLoud"  src="https://cdn-icons-png.flaticon.com/512/873/873117.png" />
+<img align="left" height="30" width="30" alt="AWS"  src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" />
 <br />
 <br />
 
@@ -105,6 +107,4 @@
 <br />
 <br /> -->
 
-<br />
-<hr />
 <img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />

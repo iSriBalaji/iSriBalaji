@@ -14,11 +14,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website]
-[<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Sri Balaji | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="Sri Balaji | WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
-[<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="left" height="30" width="30" alt="Sri Balaji Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website]
+[<img align="left" height="30" width="30" alt="Sri Balaji | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" height="30" width="30" alt="Sri Balaji | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" height="30" width="30" alt="Sri Balaji | WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
+[<img align="left" height="30" width="30" alt="Sri Balaji | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 [whatsapp]:https://wa.me/+919789968131
 [website]: https://isribalaji.in/
@@ -34,8 +34,11 @@
 - MySQL Connector
 - Speech Recognition
 - Requests
-
 <br />
+
+### Frameworks
+Django: - Buiding a microblogging platform(Rapt) with analytics and natural language processing
+        - Get the code in CallodineBlog repo
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />

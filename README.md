@@ -19,7 +19,7 @@
 [<img align="left" alt="Sri Balaji | WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
 [<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
-[whatsapp]:https://wa.me/+919789968131
+[whatsapp]:https://wa.me/+17169863583
 [website]: https://isribalaji.in/
 [twitter]: https://twitter.com/isribalaji
 [instagram]: https://www.instagram.com/isribalaji/

@@ -6,7 +6,7 @@
 - Currently pursuing Master's in Data Science at UB
 - Building a microblogging platform with Analytics
 - Interested in Statistical Data Mining and Data Analysis
-- Google Cloud Certified Data Engineer
+- Google Cloud Certified Professional Data Engineer
 - Worked as Data Engineer at TCS for a year.
 - Fun fact: I love to read blogs, develop mobile apps, web and desktop applications. Also I like to play Counter-Strike global offensive
 

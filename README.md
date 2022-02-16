@@ -4,7 +4,7 @@
 
 ### Master's Student • University at Buffalo • Data Science
 - Currently pursuing Master's in Data Science at UB
-- Building a microblogging platform with Analytics - <a href="https://callodineblog.herokuapp.com/">Raptworks</a>
+- Building a microblogging platform performs Sentiment Analytics on each post - <a href="https://callodineblog.herokuapp.com/">Raptworks</a>
 - Interested in Statistical Data Mining and Data Analysis
 - Google Cloud Certified Professional Data Engineer
 - Worked as a Data Engineer at TCS for a year.

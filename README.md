@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
 
 ### Master's Student • University at Buffalo • Data Science
-- Currently pursuing Master's in Data Science at UB
+- Currently pursuing Master's in Data Science at University at Buffalo, The State University of New York
 - Building a microblogging platform performs Sentiment Analytics on each post - <a href="https://callodineblog.herokuapp.com/">Raptworks</a>
 - Interested in Statistical Data Mining and Data Analysis
 - Google Cloud Certified Professional Data Engineer

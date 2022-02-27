@@ -9,7 +9,7 @@
 - Google Cloud Certified Professional Data Engineer
 - Worked as a Data Engineer at TCS for a year.
 - Fun fact: I love to read blogs, develop mobile apps, web and desktop applications. Also I like to play Counter-Strike global offensive
-- I learnt to skate within a few days during my Fall Semester. Will share some of pics on [Twitter]: https://twitter.com/isribalaji
+- I learnt to skate within a few days during my Fall Semester. Will share some of pics on [Twitter] <a href="https://twitter.com/isribalaji">Twitter</a>
 
 ### Connect with me:
 

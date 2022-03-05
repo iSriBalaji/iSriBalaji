@@ -12,7 +12,7 @@
 - I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] 
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
 
-### Connect with me:
+### Connect with me: I'm active on Twitter and Linkedin
 
 [<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website]
 [<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]

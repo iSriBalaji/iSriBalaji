@@ -8,8 +8,9 @@
 - Interested in Statistical Data Mining and Data Analysis
 - Google Cloud Certified Professional Data Engineer
 - Worked as a Data Engineer at TCS for a year.
-- Fun fact: I love to read blogs, develop mobile apps, web and desktop applications. Also I like to play Counter-Strike global offensive
+- Fun fact: I love to develop mobile apps, web and desktop applications. Also I like to play Counter-Strike global offensive
 - I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] 
+- I love read blogs related to Machine Learning and AI. I respect and follow people who contributed for ML & Deeplearning research such as Yann LeCun, Geoffrey Hinton, Andrew NG.
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
 
 ### Connect with me: I'm active on Twitter and Linkedin

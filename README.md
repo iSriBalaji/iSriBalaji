@@ -4,7 +4,8 @@
 
 ### Master's Student • University at Buffalo • Data Science
 - Currently pursuing Master's in Data Science at University at Buffalo, The State University of New York
-- Building a microblogging platform performs Sentiment Analytics on each post - <a href="https://callodineblog.herokuapp.com/">Raptworks</a>
+- Winner of Code to give Hackathon conducted by Morgan Stanley - <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a>
+- Built a social engagewment platfoem that performs Sentiment Analytics on each post for a NGO (Atlanta Mission)
 - Interested in Statistical Data Mining and Data Analysis
 - Google Cloud Certified Professional Data Engineer
 - Worked as a Data Engineer at TCS for a year.

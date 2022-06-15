@@ -1,4 +1,4 @@
-<h1>Hola, I'm <a href="https://isribalaji.in/">Sri Balaji</a>
+<h1>Hello, I'm <a href="https://isribalaji.in/">Sri Balaji</a>
 <!--   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
 </h1>
 

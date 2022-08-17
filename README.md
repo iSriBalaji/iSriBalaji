@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
 
+### ML Engineer Intern at Fellowship.AI
+
 ### Master's Student • University at Buffalo • Data Science
 - Currently pursuing Master's in Data Science at University at Buffalo, The State University of New York
 - Winner of Code to give Hackathon conducted by Morgan Stanley - <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a>

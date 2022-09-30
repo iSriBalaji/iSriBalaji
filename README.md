@@ -49,7 +49,7 @@
 - Get the code in CallodineBlog repo
 
 ### Flutter Apps
-- Developed many simple mobile apps using Flutter
+- Developed numerous static mobile apps using Flutter
 
 ### <ins> Programming Languages: </ins>
 #### C, Python, R, Octave, Flutter

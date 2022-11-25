@@ -8,13 +8,14 @@
 
 ### Master's Student • University at Buffalo • Data Science
 - Pursuing Master's in Data Science at University at Buffalo, The State University of New York
-- Winner of Code to give Hackathon conducted by Morgan Stanley - <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a>
-- Built a social engagement platform that performs Sentiment Analytics on each post for a NGO
-- Worked as a Data Engineer at TCS for a year in Vodafone Nucleus Project
-- Fun fact: I love to build mobile apps, web and desktop applications with machine learning capabilities
+- Won Code to give Hackathon conducted by Morgan Stanley - <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a> by building a social engagement platform that performs Sentiment Analytics on each post
+- Worked as a Data Engineer at TCS for a year in Vodafone Nucleus Project and received "Best Team award" for the contribution
+#### Fun facts: 
+- I love to build mobile apps, web and desktop applications with machine learning capabilities
 - I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] Also I like to play CS GO
 - I love reading blogs related to Machine Learning and AI. I respect and follow people who contributed to ML & Deeplearning research such as Yann LeCun, Geoffrey Hinton, Andrew NG, Andrej Karpathy
 - I am a part of Buffalo startup community where I volunteer to organize events, network with founders, entrepreneurs, participate in compettitions and learn new skills from them
+- I also love reading books. I have completed Lean startup, Trailblazer, Happiest man on earth, Varun agarwal's biography and much more
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
 
 ### Cloud Certifications

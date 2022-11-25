@@ -4,12 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
 
-### ML Engineer Intern at Fellowship.AI
-
 ### Master's Student • University at Buffalo • Data Science
 - Pursuing Master's in Data Science at University at Buffalo, The State University of New York
 - Won Code to give Hackathon conducted by Morgan Stanley - <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a> by building a social engagement platform that performs Sentiment Analytics on each post
 - Worked as a Data Engineer at TCS for a year in Vodafone Nucleus Project and received "Best Team award" for the contribution
+- Done a summer intership at Fellowship.AI as ML Engineer
 #### Fun facts: 
 - I love to build mobile apps, web and desktop applications with machine learning capabilities
 - I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] Also I like to play CS GO

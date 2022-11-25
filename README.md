@@ -7,16 +7,19 @@
 ### ML Engineer Intern at Fellowship.AI
 
 ### Master's Student • University at Buffalo • Data Science
-- Currently pursuing Master's in Data Science at University at Buffalo, The State University of New York
+- Pursuing Master's in Data Science at University at Buffalo, The State University of New York
 - Winner of Code to give Hackathon conducted by Morgan Stanley - <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a>
-- Built a social engagement platform that performs Sentiment Analytics on each post for a NGO (Atlanta Mission)
-- Interested in Statistical Data Mining and Data Analysis
-- Google Cloud Certified Professional Data Engineer
-- Worked as a Data Engineer at TCS for a year.
-- Fun fact: I love to develop mobile apps, web and desktop applications. Also I like to play Counter-Strike global offensive
-- I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] 
-- I love reading blogs related to Machine Learning and AI. I respect and follow people who contributed to ML & Deeplearning research such as Yann LeCun, Geoffrey Hinton, Andrew NG.
+- Built a social engagement platform that performs Sentiment Analytics on each post for a NGO
+- Worked as a Data Engineer at TCS for a year in Vodafone Nucleus Project
+- Fun fact: I love to build mobile apps, web and desktop applications with machine learning capabilities
+- I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] Also I like to play CS GO
+- I love reading blogs related to Machine Learning and AI. I respect and follow people who contributed to ML & Deeplearning research such as Yann LeCun, Geoffrey Hinton, Andrew NG, Andrej Karpathy
+- I am a part of Buffalo startup community where I volunteer to organize events, network with founders, entrepreneurs, participate in compettitions and learn new skills from them
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
+
+### Cloud Certifications
+* Certified AWS Cloud Practioner
+* Certified Google Cloud Professional Data Engineer
 
 ### Connect with me: I'm active on Twitter and Linkedin
 

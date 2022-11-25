@@ -38,7 +38,7 @@
 
 ### Good in Python and have done numerous projects using it
 ### Python Packages I've worked on
-- Numpy, Pandas, SciKit Learn, OpenCV, Tensorflow, Keras, Requests
+#### Numpy, Pandas, SciKit Learn, OpenCV, Tensorflow, Keras, Requests
 
 ### Frameworks
 #### Django: 
@@ -50,7 +50,6 @@
 
 ### <ins> Programming Languages: </ins>
 #### C, Python, R, Octave, Flutter
-<br />
 
 ### <ins> Web Technologies: </ins>
 #### HTML, CSS, Bootstrap, Javascript, Django
@@ -59,14 +58,10 @@
 #### MySQL, Firebase, Oracle SQL, SQLlite, PostgreSQL
 
 ### <ins> Tools & Technologies: </ins>
-#### Git, GitHub, Tableau, Machine Learning, Linux(Debian Based Distros), Jenkins(CI/CD), Apache Spark, Apache Airflow
+#### Git, GitHub, Tableau, Machine Learning, Linux(Debian Based Distros), Jenkins(CI/CD), Apache Spark, Apache Airflow, Tableau, Shell Scripting, JIRA, Confluence, SharePoint
 
-<!-- ### <ins> Cloud Technologies: </ins>
-#### Google Cloud, AWS
-<img align="left" height="30" width="30" alt="Google CLoud"  src="https://cdn-icons-png.flaticon.com/512/873/873117.png" />
-<img align="left" height="30" width="30" alt="AWS"  src="https://www.illumina.com/content/dam/illumina-marketing/images/company/doing-business/aws-logo-web-graphic.jpg" />
-<br />
-<br /> -->
+### <ins> Cloud Technologies: </ins>
+#### Google Cloud(Data engineering products), AWS
 
 <img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji)](https://github.com/isribalaji/github-readme-stats) -->

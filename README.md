@@ -74,6 +74,7 @@
 -->
 
 <!-- Sri Balaji's Github Stats -->
+<!--
 <div style="margin-top: 20px;">
   <div style="margin-bottom: 10px;">
     <img alt="Sri Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />
@@ -82,3 +83,4 @@
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji" />
   </div>
 </div>
+-->

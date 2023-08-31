@@ -74,7 +74,7 @@
 -->
 
 <!-- Sri Balaji's Github Stats -->
-<div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 20px;">
+<div style="margin-top: 20px;">
   <div style="margin-bottom: 10px;">
     <img alt="Sri Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />
   </div>

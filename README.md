@@ -28,14 +28,14 @@
 
 ### Let's Connect and Explore Together:
 
-[<img align="left" alt="Sri Balaji Portfolio" width="41px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website]
+<!--- [<img align="left" alt="Sri Balaji Portfolio" width="41px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website] -->
 [<img align="left" alt="Sri Balaji | LinkedIn" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Sri Balaji | Twitter" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="Sri Balaji | WhatsApp" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
 [<img align="left" alt="Sri Balaji | Instagram" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 [whatsapp]:https://wa.me/+17169863583
-[website]: https://isribalaji.in/
+<!---[website]: https://isribalaji.in/ -->
 [twitter]: https://twitter.com/isribalaji
 [instagram]: https://www.instagram.com/isribalaji/
 [linkedin]: https://www.linkedin.com/in/sri-balaji/

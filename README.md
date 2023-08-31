@@ -38,6 +38,9 @@
 [linkedin]: https://www.linkedin.com/in/sri-balaji/
 <br />
 
+#### To Know more about me: isribalaji.in
+
+<!---
 ### Good in Python and have done numerous projects using it
 ### Python Packages I've worked on
 #### Numpy, Pandas, SciKit Learn, OpenCV, Tensorflow, Keras, Requests
@@ -64,6 +67,7 @@
 
 ### <ins> Cloud Technologies: </ins>
 #### Google Cloud(Data engineering products), AWS
+-->
 
 <img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji)](https://github.com/isribalaji/github-readme-stats) -->

@@ -5,19 +5,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
 
 ### Master's Student • University at Buffalo • Data Science
-- Pursuing Master's in Data Science at University at Buffalo, The State University of New York
-- Won Code to give Hackathon conducted by Morgan Stanley - <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a> by building a social engagement platform that performs Sentiment Analytics on each post
-- Worked as a Data Engineer at TCS for a year in Vodafone Nucleus Project and received "Best Team award" for the contribution
-- Done a summer intership at Fellowship.AI as ML Engineer
+- Breathing life into data, one byte at a time, as a Data Engineer at Resultant. Building data pipelines and data infrastructure for Colarado state healthcare system(CDPHE).
+- Armed with a Master's in Data Science from the acclaimed University at Buffalo, The State University of New York.
+- Curated a triumph at the Morgan Stanley Hackathon with <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a> . Pioneering a social engagement platform that deciphers sentiments, one post at a time.
+- Hailed as a "Best Team" awardee for Vodafone Nucleus during a year-long journey as a Data Engineer at TCS. Navigating the Vodafone Nucleus Project with precision and innovation.
+- Spent a summer with Fellowship.AI, igniting Machine Learning marvels that redefined possibilities.
 #### Fun facts: 
-- I love to build mobile apps, web and desktop applications with machine learning capabilities
-- I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] Also I like to play CS GO
-- I love reading blogs related to Machine Learning and AI. I respect and follow people who contributed to ML & Deeplearning research such as Yann LeCun, Geoffrey Hinton, Andrew NG, Andrej Karpathy
-- I am a part of Buffalo startup community where I volunteer to organize events, network with founders, entrepreneurs, participate in compettitions and learn new skills from them
-- I also love reading books. I have completed Lean startup, Trailblazer, Happiest man on earth, Varun agarwal's biography and much more
+- I love crafting mobile, web, and desktop applications infused with the magic of machine learning.
+- I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter]
+- Lost in the riveting world of Machine Learning and AI blogs. An ardent follower of ML and Deeplearning luminaries - Yann LeCun, Geoffrey Hinton, Andrew NG, and Andrej Karpathy.
+- An active volunteer of Buffalo's startup community, orchestrating events, networking with visionaries, competing, and soaking up skills.
+- Between code lines, I dive into books: "Lean Startup," "Trailblazer," "Happiest Man on Earth," and more. Exploring diverse worlds, one page at a time.
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
 
-### Cloud Certifications
+### Cloud Certifications'
+* Certified Google Cloud Professional Database Engineer
 * Certified AWS Cloud Practioner
 * Certified Google Cloud Professional Data Engineer
 

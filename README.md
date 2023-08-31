@@ -80,32 +80,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji)](https://github.com/isribalaji/github-readme-stats)
 
-
- <!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .connect-container {
-      display: flex;
-      align-items: center;
-      margin-bottom: 20px;
-    }
-
-    .stats-container {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      margin-top: 20px;
-    }
-
-    .github-stats {
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-
-<div class="connect-container">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <a href="https://isribalaji.in/" target="_blank">
     <img alt="Sri Balaji Portfolio" width="41px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />
   </a>
@@ -123,15 +98,11 @@
   </a>
 </div>
 
-<div class="stats-container">
-  <div class="github-stats">
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 20px;">
+  <div style="margin-bottom: 10px;">
     <img alt="Sri Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />
   </div>
-  <div class="github-langs">
+  <div>
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji" />
   </div>
 </div>
-
-</body>
-</html>
-

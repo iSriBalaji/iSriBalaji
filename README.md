@@ -19,7 +19,7 @@
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
 <br />
 
-## 👀 Dive Deeper into My Journey: 
+### 👀 Dive Deeper into My Journey: 
 ## **🌐 [isribalaji.in](https://isribalaji.in/)**
 
 <br />

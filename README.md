@@ -18,9 +18,7 @@
 - Between code lines, I dive into books: "Lean Startup," "Trailblazer," "Happiest Man on Earth," and more. Exploring diverse worlds, one page at a time.
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
 <br />
-### 👀 Dive Deeper into My Journey:
-
-🌐 [isribalaji.in](https://isribalaji.in/)
+### 👀 Dive Deeper into My Journey: 🌐 [isribalaji.in](https://isribalaji.in/)
 <br />
 ### Cloud Certifications
 * Certified Google Cloud Professional Database Engineer

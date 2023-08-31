@@ -18,18 +18,18 @@
 - Between code lines, I dive into books: "Lean Startup," "Trailblazer," "Happiest Man on Earth," and more. Exploring diverse worlds, one page at a time.
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
 
-### Cloud Certifications'
+### Cloud Certifications
 * Certified Google Cloud Professional Database Engineer
 * Certified AWS Cloud Practioner
 * Certified Google Cloud Professional Data Engineer
 
 ### Connect with me: I'm active on Twitter and Linkedin
 
-[<img align="left" alt="Sri Balaji Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website]
-[<img align="left" alt="Sri Balaji | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Sri Balaji | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="Sri Balaji | WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
-[<img align="left" alt="Sri Balaji | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="left" alt="Sri Balaji Portfolio" width="41px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website]
+[<img align="left" alt="Sri Balaji | LinkedIn" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Sri Balaji | Twitter" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="Sri Balaji | WhatsApp" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
+[<img align="left" alt="Sri Balaji | Instagram" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 [whatsapp]:https://wa.me/+17169863583
 [website]: https://isribalaji.in/

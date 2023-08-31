@@ -6,15 +6,15 @@
 
 ### Master's Student • University at Buffalo • Data Science
 - Breathing life into data, one byte at a time, as a Data Engineer at Resultant. Building data pipelines and data infrastructure for Colarado state healthcare system(CDPHE).
-- Armed with a Master's in Data Science from the acclaimed University at Buffalo, The State University of New York.
-- Curated a triumph at the Morgan Stanley Hackathon with <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a> . Pioneering a social engagement platform that deciphers sentiments, one post at a time.
-- Hailed as a "Best Team" awardee for Vodafone Nucleus during a year-long journey as a Data Engineer at TCS. Navigating the Vodafone Nucleus Project with precision and innovation.
-- Spent a summer with Fellowship.AI, igniting Machine Learning marvels that redefined possibilities.
+- Armed with a Master's in Data Science😉 from the acclaimed University at Buffalo, The State University of New York.
+- Curated a triumph at the Morgan Stanley Hackathon with <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a> . Built a social engagement platform that deciphers sentiments, one post at a time.
+- Hailed as a "Best Team" awardee for Vodafone Nucleus during a year-long journey as a Data Engineer at TCS. Navigating the Vodafone Nucleus Project with ideas and innovation.
+- Spent a summer with Fellowship.AI, igniting Machine Learning marvels specifically on the language models.
 #### Fun facts: 
-- I love crafting mobile, web, and desktop applications infused with the magic of machine learning.
-- I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter]
+- I love crafting mobile, web, and desktop applications for small applications.
+- I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] where I am active
 - Lost in the riveting world of Machine Learning and AI blogs. An ardent follower of ML and Deeplearning luminaries - Yann LeCun, Geoffrey Hinton, Andrew NG, and Andrej Karpathy.
-- An active volunteer of Buffalo's startup community, orchestrating events, networking with visionaries, competing, and soaking up skills.
+- An active volunteer of Buffalo's startup community for its events, networking with visionaries, competing, and soaking up skills.
 - Between code lines, I dive into books: "Lean Startup," "Trailblazer," "Happiest Man on Earth," and more. Exploring diverse worlds, one page at a time.
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
 

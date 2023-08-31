@@ -74,30 +74,6 @@
 -->
 
 <!-- Sri Balaji's Github Stats -->
-<div align="left">
-  <img alt="Sri Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />
-</div>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji)](https://github.com/isribalaji/github-readme-stats)
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <a href="https://isribalaji.in/" target="_blank">
-    <img alt="Sri Balaji Portfolio" width="41px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/sri-balaji/" target="_blank">
-    <img alt="Sri Balaji | LinkedIn" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-  </a>
-  <a href="https://twitter.com/isribalaji" target="_blank">
-    <img alt="Sri Balaji | Twitter" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-  </a>
-  <a href="https://wa.me/+17169863583" target="_blank">
-    <img alt="Sri Balaji | WhatsApp" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />
-  </a>
-  <a href="https://www.instagram.com/isribalaji/" target="_blank">
-    <img alt="Sri Balaji | Instagram" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
-  </a>
-</div>
-
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 20px;">
   <div style="margin-bottom: 10px;">
     <img alt="Sri Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />

@@ -79,3 +79,59 @@
 </div>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji)](https://github.com/isribalaji/github-readme-stats)
+
+
+ <!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .connect-container {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .stats-container {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      margin-top: 20px;
+    }
+
+    .github-stats {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="connect-container">
+  <a href="https://isribalaji.in/" target="_blank">
+    <img alt="Sri Balaji Portfolio" width="41px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/sri-balaji/" target="_blank">
+    <img alt="Sri Balaji | LinkedIn" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>
+  <a href="https://twitter.com/isribalaji" target="_blank">
+    <img alt="Sri Balaji | Twitter" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+  </a>
+  <a href="https://wa.me/+17169863583" target="_blank">
+    <img alt="Sri Balaji | WhatsApp" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />
+  </a>
+  <a href="https://www.instagram.com/isribalaji/" target="_blank">
+    <img alt="Sri Balaji | Instagram" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+  </a>
+</div>
+
+<div class="stats-container">
+  <div class="github-stats">
+    <img alt="Sri Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />
+  </div>
+  <div class="github-langs">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji" />
+  </div>
+</div>
+
+</body>
+</html>
+

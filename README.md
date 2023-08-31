@@ -17,10 +17,14 @@
 - An active volunteer of Buffalo's startup community for its events, networking with visionaries, competing, and soaking up skills.
 - Between code lines, I dive into books: "Lean Startup," "Trailblazer," "Happiest Man on Earth," and more. Exploring diverse worlds, one page at a time.
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
+
 <br />
+
 ### 👀 Dive Deeper into My Journey: 
-## 🌐 [isribalaji.in](https://isribalaji.in/)
+🌐 [isribalaji.in](https://isribalaji.in/)
+
 <br />
+
 ### Cloud Certifications
 * Certified Google Cloud Professional Database Engineer
 * Certified AWS Cloud Practioner

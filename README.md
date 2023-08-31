@@ -23,7 +23,7 @@
 * Certified AWS Cloud Practioner
 * Certified Google Cloud Professional Data Engineer
 
-### Connect with me: I'm active on Twitter and Linkedin
+### Let's Connect and Explore Together:
 
 [<img align="left" alt="Sri Balaji Portfolio" width="41px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website]
 [<img align="left" alt="Sri Balaji | LinkedIn" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
@@ -38,7 +38,10 @@
 [linkedin]: https://www.linkedin.com/in/sri-balaji/
 <br />
 
-#### To Know more about me: isribalaji.in
+### 👀 Dive Deeper into My Journey:
+
+🌐 [isribalaji.in](https://isribalaji.in/)
+
 
 <!---
 ### Good in Python and have done numerous projects using it

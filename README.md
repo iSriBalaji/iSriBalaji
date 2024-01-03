@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
 
 ### Master's Student • University at Buffalo • Data Science
-- Breathing life into data, one byte at a time, as a Data Engineer at Resultant. Building data pipelines and data infrastructure for Colarado state healthcare system(CDPHE).
+- Playing with data, one byte at a time, as a Data Engineer at Resultant. Building data pipelines and data infrastructure for Colarado state healthcare system(CDPHE).
 - Armed with a Master's in Data Science😉 from the acclaimed University at Buffalo, The State University of New York.
 - Curated a triumph at the Morgan Stanley Hackathon with <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a> . Built a social engagement platform that deciphers sentiments, one post at a time.
 - Hailed as a "Best Team" awardee for Vodafone Nucleus during a year-long journey as a Data Engineer at TCS. Navigating the Vodafone Nucleus Project with ideas and innovation.

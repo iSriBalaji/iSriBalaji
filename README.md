@@ -13,7 +13,7 @@
 #### Fun facts: 
 - I love crafting mobile, web, and desktop applications for small applications.
 - I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] where I am active
-- Lost in the riveting world of Machine Learning and AI blogs. An ardent follower of ML and Deeplearning luminaries - Yann LeCun, Geoffrey Hinton, Andrew NG, and Andrej Karpathy.
+- Lost in the riveting world of Machine Learning and AI blogs. An ardent follower of ML and Deeplearning luminaries - Yann LeCun, Geoffrey Hinton, Andrew NG, and Andrej Karpathy//
 - An active volunteer of Buffalo's startup community for its events, networking with visionaries, competing, and soaking up skills.
 - Between code lines, I dive into books: "Lean Startup," "Trailblazer," "Happiest Man on Earth," and more. Exploring diverse worlds, one page at a time.
 <!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->

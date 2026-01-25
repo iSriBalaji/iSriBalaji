@@ -1,84 +1,45 @@
-<h1>Hello, I'm <a href="https://isribalaji.in/">Sri Balaji</a>
-<!--   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
-</h1>
+# Hello, I'm Sri Balaji
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="iSriBalaji" /> </p>
+Passionate engineer who loves to build—big or small. I try to sharpen my craft, stay curious, keep growing as a person along the way.and prefer to share quietly.
 
-### Master's Student • University at Buffalo • Data Science
-- Playing with data, one byte at a time, as a Data Engineer at Resultant. Building data pipelines and data infrastructure for Colarado state healthcare system(CDPHE).
-- Armed with a Master's in Data Science😉 from the acclaimed University at Buffalo, The State University of New York.
-- Curated a triumph at the Morgan Stanley Hackathon with <a href="https://atlanta-mission.herokuapp.com/">Atlanta Mission</a> . Built a social engagement platform that deciphers sentiments, one post at a time.
-- Hailed as a "Best Team" awardee for Vodafone Nucleus during a year-long journey as a Data Engineer at TCS. Navigating the Vodafone Nucleus Project with ideas and innovation.
-- Spent a summer with Fellowship.AI, igniting Machine Learning marvels specifically on the language models.
-#### Fun facts: 
-- I love crafting mobile, web, and desktop applications for small applications.
-- I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] where I am active
-- Lost in the riveting world of Machine Learning and AI blogs. An ardent follower of ML and Deeplearning luminaries - Yann LeCun, Geoffrey Hinton, Andrew NG, and Andrej Karpathy//
-- An active volunteer of Buffalo's startup community for its events, networking with visionaries, competing, and soaking up skills.
-- Between code lines, I dive into books: "Lean Startup," "Trailblazer," "Happiest Man on Earth," and more. Exploring diverse worlds, one page at a time.
-<!-- <a href="https://twitter.com/isribalaji">Twitter</a> -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="Profile views" /></p>
 
-### 👀 Dive Deeper into My Journey: 
-## **🌐 [isribalaji.in](https://isribalaji.in/)**
+## What I'm working on
+- As Profession, Data Engineer II at Resultant, building pipelines and data infrastructure for Healthcare, Insurance, Real estate organizations.
+- Sharing in the open at https://isribalaji.in/
+- Building a life management platform at https://www.sribalaji.io/ Please shoot me a message if you are interested in the pilot program to test and give feedback on the product MVP
 
-### Cloud Certifications
-* Certified Google Cloud Professional Database Engineer
-* Certified AWS Cloud Practioner
-* Certified Google Cloud Professional Data Engineer
+## Background
+- M.S. in Data Science from the University at Buffalo
+- Morgan Stanley hackathon with the Atlanta Mission team: built a social engagement platform from idea to launch and secured first palce in the event
+- Vodafone Nucleus “Best Team” during my year as a data engineer at TCS
+- Fellowship.AI summer focused on language-model projects and learning from peers
+- Strong experience and interest in working in GCP, python, data, with minial UI projects
 
-### Let's Connect and Explore Together:
+## Fun facts
+- I like crafting mobile, web, and desktop apps for everyday needs.
+- Learned to skate in a few days during a fall semester; occasional updates land on Twitter.
+- Ongoing reader of ML and AI blogs—following folks like Yann LeCun, Geoffrey Hinton, Andrew Ng, and Andrej Karpathy.
+- Volunteer in Buffalo's startup community when I can: events, meeting builders, helping where useful.
+- Between code lines, I read books like "Lean Startup," "Trailblazer," and "Happiest Man on Earth."
+- I am an active person twitter and linkedin, thats the best way to reach me apart from email below
+- I enjoy spending time to spread my knowledge in other domains such as mechanical, electronics, taxes, stocks, finance, geopolitics, global economics
 
-<!--- [<img align="left" alt="Sri Balaji Portfolio" width="41px" src="https://cdn-icons-png.flaticon.com/512/3884/3884864.png" />][website] -->
-[<img align="left" alt="Sri Balaji | LinkedIn" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Sri Balaji | Twitter" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-<!--- [<img align="left" alt="Sri Balaji | WhatsApp" width="41px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp] -->
-[<img align="left" alt="Sri Balaji | Instagram" width="41px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+## Certifications
+- Certified Google Cloud Professional Data Engineer
+- Certified Google Cloud Professional Database Engineer
+- AWS Cloud Practitioner
+- Astronomer Certification for Apache Airflow Fundamentals
 
-<!--- [whatsapp]:https://wa.me/+1 -->
-<!---[website]: https://isribalaji.in/ -->
-[twitter]: https://twitter.com/isribalaji
-[instagram]: https://www.instagram.com/isribalaji/
-[linkedin]: https://www.linkedin.com/in/sri-balaji/
-<br />
+## What I enjoy building
+- Data pipelines, analytics, and automation
+- ML/LLM experiments (language-focused)
+- Small utilities across web, mobile, and desktop apps
+- Raspberry Pi prototypes and automations
 
-
-<!---
-### Good in Python and have done numerous projects using it
-### Python Packages I've worked on
-#### Numpy, Pandas, SciKit Learn, OpenCV, Tensorflow, Keras, Requests
-
-### Frameworks
-#### Django: 
-- Built a microblogging platform with analytics and natural language processing
-- Get the code in CallodineBlog repo
-
-### Flutter Apps
-- Developed numerous static mobile apps using Flutter
-
-### <ins> Programming Languages: </ins>
-#### C, Python, R, Octave, Flutter
-
-### <ins> Web Technologies: </ins>
-#### HTML, CSS, Bootstrap, Javascript, Django
-
-### <ins> Database: </ins>
-#### MySQL, Firebase, Oracle SQL, SQLlite, PostgreSQL
-
-### <ins> Tools & Technologies: </ins>
-#### Git, GitHub, Tableau, Machine Learning, Linux(Debian Based Distros), Jenkins(CI/CD), Apache Spark, Apache Airflow, Tableau, Shell Scripting, JIRA, Confluence, SharePoint
-
-### <ins> Cloud Technologies: </ins>
-#### Google Cloud(Data engineering products), AWS
--->
-
-<!-- Sri Balaji's Github Stats -->
-<!--
-<div style="margin-top: 20px;">
-  <div style="margin-bottom: 10px;">
-    <img alt="Sri Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSriBalaji&show_icons=true&hide_border=false" />
-  </div>
-  <div>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isribalaji" />
-  </div>
-</div>
--->
+## Find me
+- Email: contact@sribalaji.io
+- Website: https://isribalaji.in/
+- LinkedIn: https://www.linkedin.com/in/sri-balaji/
+- Twitter: https://twitter.com/isribalaji
+- Instagram: https://www.instagram.com/isribalaji/

@@ -4,6 +4,9 @@ Passionate engineer who loves to build—big or small. I try to sharpen my craft
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=iSriBalaji&label=Views&color=blue&style=flat" alt="Profile views" /></p>
 
+### Contact
+Email: contact@sribalaji.io
+
 ## What I'm working on
 - As Profession, Data Engineer II at Resultant, building pipelines and data infrastructure for Healthcare, Insurance, Real estate organizations.
 - Sharing in the open at https://isribalaji.in/

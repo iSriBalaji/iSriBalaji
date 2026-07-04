@@ -27,7 +27,7 @@ Email: contact@sribalaji.io
 
 ## Fun facts
 - I show up to each new domain or project with what I think of as an empty bowl, ready to fill it with whatever comes from actually doing the work, rather than assuming I already know
-- I like crafting mobile, web, and desktop apps for everyday problems that probably don't need solving but bother me anyway
+- I like crafting mobile, web, and desktop apps for everyday problems
 - Learned to skate in a few days one fall semester, occasional updates land on Twitter
 - Ongoing reader of ML and AI blogs, following people like Yann LeCun, Geoffrey Hinton, Andrew Ng, and Andrej Karpathy
 - Volunteer in Buffalo's startup community when I can: events, meeting builders, helping where useful
@@ -44,7 +44,7 @@ Email: contact@sribalaji.io
 ## What I enjoy building
 - Data pipelines, warehouses, and automation
 - Small utilities across web, mobile, and desktop
-- Raspberry Pi prototypes that solve one very specific annoyance
+- Raspberry Pi prototypes that solve one very specific problem, once I worked on detecting washing machine starting and ending with vibration sensor ana PI
 - Occasional ML and NLP experiments
 
 ## Find me
